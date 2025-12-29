@@ -1,6 +1,6 @@
 # Hi there, I'm Bora
 
-I'm a computer science student passionate about open-source and Backend development.
+I'm a computer science student at Ozyegin University passionate about open-source and Backend development.
 
 - I’m currently working on **E-Commerce Order Management System for CS 202 course**
 - I’m currently learning **Java and MySQL**
