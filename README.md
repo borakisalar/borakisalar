@@ -30,4 +30,7 @@ I'm a computer science student passionate about open-source and Backend developm
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/bora-k%C4%B1salar-862254285/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bora-k%C4%B1salar-862254285/)
+
+***
+![Visitor Count](https://komarev.com/ghpvc/?username=borakisalar&label=Profile%20Views&color=0e75b6&style=for-the-badge)
